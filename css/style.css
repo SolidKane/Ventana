@@ -1,0 +1,22 @@
+.standart{
+	background: url(../img/standart-bg.jpg) left center no-repeat;
+}
+
+.standart-item{
+	margin: 50px 0;
+}
+
+.standart p{
+	margin-top: 25px;
+	font: bold 20px 'Open Sans';
+	color: #23c7d1;
+}
+
+.partners{
+	background: url(../img/standart-bg_top.jpg) top center no-repeat;
+}
+
+.slider{
+	height: 768px;
+	background: url(../img/slider.jpg) left center no-repeat;
+}
